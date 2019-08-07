@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\gambar\gambar\bin\Debug\gambar.exe.config
+C:\Users\ASUS\source\repos\gambar\gambar\bin\Debug\gambar.exe
+C:\Users\ASUS\source\repos\gambar\gambar\bin\Debug\gambar.pdb
+C:\Users\ASUS\source\repos\gambar\gambar\bin\Debug\gambar.xml
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.Form1.resources
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.Form2.resources
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.Form3.resources
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.Resources.resources
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.exe
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.xml
+C:\Users\ASUS\source\repos\gambar\gambar\obj\Debug\gambar.pdb
